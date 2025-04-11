@@ -1,0 +1,1001 @@
+Data,Projeto,Cliente,Colaborador,Atividade,Horas
+2025-01-01,Obra E,PVCP,Diana,Desenho CAD,5.0
+2025-01-01,Residência A,João Lima,Ana,Modelagem 3D,3.5
+2025-01-01,Residência A,Grupo Beta,Diana,Desenho CAD,2.1
+2025-01-01,Reforma F,Família Souza,Bruno,Projeto Executivo,4.5
+2025-01-01,Escritório C,Família Souza,Ana,Desenho CAD,5.2
+2025-01-01,Apartamento D,João Lima,Eduardo,Reunião com Cliente,4.5
+2025-01-01,Reforma F,PVCP,Bruno,Desenho CAD,4.6
+2025-01-01,Comercial B,Grupo Beta,Carlos,Projeto Executivo,3.6
+2025-01-01,Apartamento D,Construtora Alfa,Carlos,Modelagem 3D,2.5
+2025-01-01,Residência A,Construtora Alfa,Diana,Reunião com Cliente,2.5
+2025-01-01,Residência A,Família Souza,Carlos,Projeto Executivo,4.8
+2025-01-01,Escritório C,Construtora Alfa,Ana,Modelagem 3D,2.6
+2025-01-01,Escritório C,PVCP,Carlos,Desenho CAD,2.3
+2025-01-01,Residência A,Construtora Alfa,Eduardo,Modelagem 3D,2.6
+2025-01-01,Obra E,Família Souza,Carlos,Desenho CAD,4.4
+2025-01-01,Residência A,Grupo Beta,Ana,Reunião com Cliente,2.9
+2025-01-01,Residência A,Grupo Beta,Eduardo,Projeto Executivo,4.7
+2025-01-01,Obra E,Família Souza,Bruno,Projeto Executivo,4.3
+2025-01-02,Comercial B,João Lima,Eduardo,Reunião com Cliente,5.3
+2025-01-02,Reforma F,Grupo Beta,Eduardo,Orçamento,0.8
+2025-01-02,Comercial B,Família Souza,Diana,Desenho CAD,2.7
+2025-01-02,Residência A,Grupo Beta,Ana,Desenho CAD,5.3
+2025-01-02,Apartamento D,Grupo Beta,Diana,Orçamento,5.3
+2025-01-02,Comercial B,Grupo Beta,Ana,Visita Técnica,0.6
+2025-01-02,Comercial B,João Lima,Ana,Projeto Executivo,5.1
+2025-01-02,Obra E,Grupo Beta,Diana,Reunião com Cliente,5.5
+2025-01-02,Reforma F,Construtora Alfa,Bruno,Desenho CAD,3.9
+2025-01-02,Comercial B,João Lima,Carlos,Orçamento,2.2
+2025-01-02,Comercial B,Grupo Beta,Ana,Projeto Executivo,3.0
+2025-01-02,Obra E,Grupo Beta,Carlos,Visita Técnica,3.8
+2025-01-02,Comercial B,Família Souza,Bruno,Reunião com Cliente,3.6
+2025-01-02,Reforma F,Família Souza,Carlos,Desenho CAD,6.2
+2025-01-02,Reforma F,Grupo Beta,Ana,Orçamento,1.7
+2025-01-03,Reforma F,Grupo Beta,Bruno,Visita Técnica,4.8
+2025-01-03,Obra E,Grupo Beta,Carlos,Visita Técnica,7.2
+2025-01-03,Escritório C,PVCP,Eduardo,Desenho CAD,3.3
+2025-01-03,Escritório C,Grupo Beta,Diana,Modelagem 3D,6.4
+2025-01-03,Residência A,João Lima,Eduardo,Projeto Executivo,3.1
+2025-01-03,Apartamento D,Grupo Beta,Ana,Desenho CAD,3.7
+2025-01-03,Obra E,Construtora Alfa,Diana,Modelagem 3D,7.6
+2025-01-03,Obra E,João Lima,Ana,Orçamento,3.6
+2025-01-03,Reforma F,PVCP,Diana,Desenho CAD,6.5
+2025-01-03,Escritório C,Família Souza,Bruno,Reunião com Cliente,5.2
+2025-01-03,Obra E,João Lima,Ana,Visita Técnica,4.7
+2025-01-03,Apartamento D,Família Souza,Eduardo,Modelagem 3D,4.1
+2025-01-03,Comercial B,João Lima,Eduardo,Modelagem 3D,2.3
+2025-01-03,Obra E,Família Souza,Carlos,Reunião com Cliente,5.8
+2025-01-04,Obra E,PVCP,Ana,Reunião com Cliente,4.8
+2025-01-04,Obra E,Família Souza,Bruno,Desenho CAD,4.5
+2025-01-04,Obra E,Construtora Alfa,Ana,Visita Técnica,4.0
+2025-01-04,Escritório C,Família Souza,Ana,Modelagem 3D,2.6
+2025-01-04,Reforma F,Construtora Alfa,Diana,Visita Técnica,2.8
+2025-01-04,Obra E,PVCP,Ana,Projeto Executivo,1.5
+2025-01-04,Escritório C,PVCP,Ana,Orçamento,3.6
+2025-01-04,Obra E,Grupo Beta,Diana,Desenho CAD,4.0
+2025-01-04,Residência A,Grupo Beta,Bruno,Modelagem 3D,2.8
+2025-01-04,Apartamento D,João Lima,Eduardo,Desenho CAD,4.5
+2025-01-04,Residência A,Grupo Beta,Carlos,Projeto Executivo,4.3
+2025-01-04,Reforma F,Família Souza,Bruno,Desenho CAD,2.9
+2025-01-04,Obra E,Grupo Beta,Carlos,Projeto Executivo,3.0
+2025-01-05,Reforma F,Família Souza,Eduardo,Orçamento,3.8
+2025-01-05,Residência A,Família Souza,Diana,Modelagem 3D,4.1
+2025-01-05,Apartamento D,Família Souza,Eduardo,Orçamento,4.8
+2025-01-05,Reforma F,Grupo Beta,Ana,Projeto Executivo,3.8
+2025-01-05,Comercial B,João Lima,Eduardo,Orçamento,4.3
+2025-01-05,Obra E,João Lima,Eduardo,Projeto Executivo,5.0
+2025-01-05,Obra E,Construtora Alfa,Diana,Reunião com Cliente,4.0
+2025-01-05,Obra E,João Lima,Bruno,Reunião com Cliente,5.7
+2025-01-05,Comercial B,Grupo Beta,Diana,Orçamento,4.8
+2025-01-05,Escritório C,Família Souza,Carlos,Modelagem 3D,3.2
+2025-01-05,Obra E,Construtora Alfa,Diana,Visita Técnica,5.1
+2025-01-05,Apartamento D,Família Souza,Carlos,Orçamento,4.2
+2025-01-05,Residência A,Grupo Beta,Diana,Desenho CAD,5.6
+2025-01-06,Obra E,Família Souza,Diana,Reunião com Cliente,3.4
+2025-01-06,Comercial B,Família Souza,Diana,Visita Técnica,2.6
+2025-01-06,Residência A,Família Souza,Carlos,Visita Técnica,2.7
+2025-01-06,Reforma F,João Lima,Carlos,Visita Técnica,6.5
+2025-01-06,Obra E,Grupo Beta,Carlos,Modelagem 3D,2.5
+2025-01-06,Escritório C,Grupo Beta,Ana,Projeto Executivo,5.2
+2025-01-06,Residência A,Família Souza,Eduardo,Reunião com Cliente,2.8
+2025-01-06,Comercial B,Grupo Beta,Bruno,Reunião com Cliente,4.1
+2025-01-06,Residência A,Família Souza,Carlos,Modelagem 3D,3.3
+2025-01-06,Comercial B,João Lima,Eduardo,Reunião com Cliente,3.7
+2025-01-06,Apartamento D,João Lima,Diana,Reunião com Cliente,3.3
+2025-01-06,Apartamento D,Família Souza,Ana,Orçamento,2.2
+2025-01-07,Reforma F,Família Souza,Ana,Visita Técnica,2.5
+2025-01-07,Residência A,Grupo Beta,Carlos,Orçamento,2.8
+2025-01-07,Apartamento D,João Lima,Diana,Visita Técnica,2.6
+2025-01-07,Residência A,Família Souza,Diana,Projeto Executivo,5.7
+2025-01-07,Apartamento D,PVCP,Diana,Visita Técnica,5.8
+2025-01-07,Obra E,Construtora Alfa,Carlos,Visita Técnica,6.5
+2025-01-07,Obra E,Construtora Alfa,Diana,Orçamento,4.3
+2025-01-07,Escritório C,Grupo Beta,Carlos,Visita Técnica,5.9
+2025-01-08,Apartamento D,João Lima,Eduardo,Modelagem 3D,2.9
+2025-01-08,Residência A,João Lima,Carlos,Reunião com Cliente,2.5
+2025-01-08,Comercial B,João Lima,Carlos,Reunião com Cliente,3.4
+2025-01-08,Apartamento D,PVCP,Carlos,Modelagem 3D,3.6
+2025-01-08,Reforma F,Construtora Alfa,Eduardo,Orçamento,2.7
+2025-01-08,Reforma F,Construtora Alfa,Bruno,Desenho CAD,3.4
+2025-01-08,Residência A,João Lima,Ana,Visita Técnica,1.3
+2025-01-08,Comercial B,Construtora Alfa,Carlos,Projeto Executivo,3.6
+2025-01-08,Reforma F,Grupo Beta,Eduardo,Reunião com Cliente,4.8
+2025-01-08,Comercial B,Grupo Beta,Diana,Modelagem 3D,3.9
+2025-01-08,Comercial B,Construtora Alfa,Eduardo,Modelagem 3D,3.3
+2025-01-08,Apartamento D,PVCP,Eduardo,Projeto Executivo,4.0
+2025-01-08,Escritório C,PVCP,Eduardo,Orçamento,3.1
+2025-01-08,Comercial B,Grupo Beta,Bruno,Desenho CAD,2.4
+2025-01-08,Escritório C,João Lima,Eduardo,Reunião com Cliente,5.2
+2025-01-09,Apartamento D,João Lima,Bruno,Desenho CAD,3.9
+2025-01-09,Escritório C,João Lima,Carlos,Orçamento,3.7
+2025-01-09,Escritório C,PVCP,Diana,Visita Técnica,5.2
+2025-01-09,Residência A,Grupo Beta,Diana,Visita Técnica,5.1
+2025-01-09,Obra E,PVCP,Eduardo,Orçamento,5.1
+2025-01-09,Obra E,Família Souza,Ana,Orçamento,4.8
+2025-01-09,Residência A,Construtora Alfa,Carlos,Modelagem 3D,6.1
+2025-01-09,Residência A,João Lima,Eduardo,Reunião com Cliente,3.9
+2025-01-09,Obra E,PVCP,Eduardo,Orçamento,6.6
+2025-01-09,Reforma F,Família Souza,Bruno,Orçamento,4.0
+2025-01-09,Reforma F,João Lima,Ana,Reunião com Cliente,1.9
+2025-01-09,Reforma F,Construtora Alfa,Ana,Orçamento,4.2
+2025-01-09,Apartamento D,João Lima,Ana,Orçamento,3.1
+2025-01-10,Comercial B,Grupo Beta,Ana,Desenho CAD,2.9
+2025-01-10,Obra E,Família Souza,Carlos,Projeto Executivo,4.1
+2025-01-10,Comercial B,Família Souza,Diana,Desenho CAD,4.1
+2025-01-10,Obra E,PVCP,Ana,Reunião com Cliente,7.8
+2025-01-10,Comercial B,Construtora Alfa,Ana,Orçamento,4.2
+2025-01-10,Obra E,PVCP,Diana,Projeto Executivo,1.0
+2025-01-10,Apartamento D,PVCP,Carlos,Desenho CAD,2.7
+2025-01-10,Obra E,João Lima,Ana,Reunião com Cliente,5.1
+2025-01-11,Reforma F,Grupo Beta,Ana,Desenho CAD,4.8
+2025-01-11,Comercial B,PVCP,Diana,Orçamento,1.4
+2025-01-11,Residência A,PVCP,Diana,Visita Técnica,6.5
+2025-01-11,Obra E,Família Souza,Ana,Modelagem 3D,1.3
+2025-01-11,Residência A,Grupo Beta,Eduardo,Modelagem 3D,5.5
+2025-01-12,Apartamento D,Construtora Alfa,Carlos,Projeto Executivo,3.4
+2025-01-12,Apartamento D,Família Souza,Diana,Projeto Executivo,4.7
+2025-01-12,Comercial B,Grupo Beta,Diana,Modelagem 3D,4.8
+2025-01-12,Apartamento D,PVCP,Ana,Reunião com Cliente,6.5
+2025-01-12,Reforma F,Grupo Beta,Ana,Modelagem 3D,6.8
+2025-01-12,Residência A,Grupo Beta,Bruno,Visita Técnica,3.0
+2025-01-12,Reforma F,Família Souza,Eduardo,Desenho CAD,4.5
+2025-01-12,Comercial B,PVCP,Diana,Reunião com Cliente,1.5
+2025-01-12,Reforma F,João Lima,Bruno,Visita Técnica,3.7
+2025-01-12,Apartamento D,Família Souza,Ana,Orçamento,3.7
+2025-01-12,Apartamento D,João Lima,Eduardo,Desenho CAD,4.1
+2025-01-12,Obra E,PVCP,Ana,Orçamento,1.6
+2025-01-12,Comercial B,Família Souza,Eduardo,Modelagem 3D,5.4
+2025-01-12,Reforma F,João Lima,Diana,Reunião com Cliente,7.3
+2025-01-13,Apartamento D,Grupo Beta,Ana,Modelagem 3D,3.6
+2025-01-13,Escritório C,PVCP,Ana,Desenho CAD,5.4
+2025-01-13,Residência A,João Lima,Eduardo,Desenho CAD,2.5
+2025-01-13,Residência A,Grupo Beta,Ana,Orçamento,3.1
+2025-01-13,Apartamento D,Família Souza,Eduardo,Projeto Executivo,4.3
+2025-01-13,Apartamento D,Família Souza,Ana,Desenho CAD,4.7
+2025-01-13,Residência A,Construtora Alfa,Eduardo,Reunião com Cliente,3.8
+2025-01-13,Residência A,PVCP,Ana,Desenho CAD,4.3
+2025-01-13,Apartamento D,Família Souza,Diana,Orçamento,3.9
+2025-01-13,Residência A,Construtora Alfa,Ana,Modelagem 3D,3.0
+2025-01-13,Comercial B,João Lima,Ana,Projeto Executivo,4.7
+2025-01-14,Escritório C,Construtora Alfa,Bruno,Desenho CAD,4.2
+2025-01-14,Obra E,Grupo Beta,Diana,Orçamento,3.0
+2025-01-14,Apartamento D,Grupo Beta,Diana,Reunião com Cliente,4.8
+2025-01-14,Escritório C,Família Souza,Ana,Modelagem 3D,3.0
+2025-01-14,Escritório C,Construtora Alfa,Ana,Reunião com Cliente,5.6
+2025-01-14,Comercial B,Grupo Beta,Eduardo,Modelagem 3D,5.2
+2025-01-14,Residência A,João Lima,Diana,Reunião com Cliente,5.8
+2025-01-14,Obra E,Construtora Alfa,Eduardo,Orçamento,3.4
+2025-01-14,Escritório C,João Lima,Eduardo,Reunião com Cliente,1.0
+2025-01-14,Comercial B,PVCP,Ana,Desenho CAD,1.6
+2025-01-14,Comercial B,Grupo Beta,Carlos,Visita Técnica,2.6
+2025-01-15,Residência A,João Lima,Diana,Projeto Executivo,4.4
+2025-01-15,Reforma F,Família Souza,Ana,Projeto Executivo,5.3
+2025-01-15,Obra E,Grupo Beta,Ana,Visita Técnica,5.3
+2025-01-15,Obra E,PVCP,Carlos,Reunião com Cliente,4.7
+2025-01-15,Obra E,Construtora Alfa,Carlos,Orçamento,5.0
+2025-01-15,Comercial B,Família Souza,Ana,Reunião com Cliente,4.7
+2025-01-15,Comercial B,PVCP,Diana,Desenho CAD,3.1
+2025-01-15,Residência A,João Lima,Diana,Projeto Executivo,3.9
+2025-01-15,Escritório C,Família Souza,Carlos,Visita Técnica,4.4
+2025-01-15,Obra E,João Lima,Eduardo,Visita Técnica,3.3
+2025-01-15,Apartamento D,PVCP,Eduardo,Desenho CAD,5.1
+2025-01-16,Escritório C,Construtora Alfa,Bruno,Desenho CAD,5.6
+2025-01-16,Escritório C,Construtora Alfa,Diana,Desenho CAD,5.9
+2025-01-16,Obra E,João Lima,Bruno,Desenho CAD,3.9
+2025-01-16,Residência A,Construtora Alfa,Eduardo,Visita Técnica,4.3
+2025-01-16,Comercial B,Grupo Beta,Eduardo,Projeto Executivo,3.5
+2025-01-16,Comercial B,PVCP,Bruno,Visita Técnica,6.0
+2025-01-16,Comercial B,Construtora Alfa,Carlos,Reunião com Cliente,4.9
+2025-01-16,Escritório C,Construtora Alfa,Diana,Visita Técnica,2.9
+2025-01-16,Escritório C,PVCP,Ana,Orçamento,4.6
+2025-01-16,Obra E,João Lima,Carlos,Desenho CAD,2.2
+2025-01-16,Residência A,João Lima,Diana,Orçamento,3.5
+2025-01-16,Comercial B,PVCP,Ana,Orçamento,3.8
+2025-01-16,Residência A,Construtora Alfa,Diana,Reunião com Cliente,4.7
+2025-01-17,Escritório C,Família Souza,Bruno,Visita Técnica,3.0
+2025-01-17,Apartamento D,Família Souza,Ana,Visita Técnica,4.7
+2025-01-17,Escritório C,Grupo Beta,Carlos,Orçamento,5.9
+2025-01-17,Comercial B,João Lima,Carlos,Reunião com Cliente,3.3
+2025-01-17,Reforma F,Construtora Alfa,Carlos,Visita Técnica,3.3
+2025-01-17,Apartamento D,Construtora Alfa,Bruno,Desenho CAD,4.6
+2025-01-17,Escritório C,Família Souza,Ana,Projeto Executivo,6.4
+2025-01-17,Apartamento D,João Lima,Carlos,Visita Técnica,3.6
+2025-01-17,Apartamento D,PVCP,Ana,Reunião com Cliente,1.9
+2025-01-17,Escritório C,Família Souza,Carlos,Reunião com Cliente,5.9
+2025-01-17,Obra E,Grupo Beta,Ana,Desenho CAD,3.4
+2025-01-17,Reforma F,Grupo Beta,Eduardo,Desenho CAD,5.9
+2025-01-17,Apartamento D,Família Souza,Carlos,Orçamento,5.4
+2025-01-17,Reforma F,Grupo Beta,Bruno,Desenho CAD,2.0
+2025-01-17,Obra E,Grupo Beta,Carlos,Reunião com Cliente,2.4
+2025-01-17,Escritório C,Grupo Beta,Bruno,Visita Técnica,3.6
+2025-01-18,Apartamento D,Construtora Alfa,Eduardo,Visita Técnica,3.7
+2025-01-18,Comercial B,Família Souza,Carlos,Projeto Executivo,5.3
+2025-01-18,Apartamento D,Família Souza,Diana,Orçamento,3.1
+2025-01-18,Reforma F,João Lima,Diana,Projeto Executivo,2.0
+2025-01-18,Comercial B,PVCP,Diana,Visita Técnica,3.8
+2025-01-18,Comercial B,Família Souza,Bruno,Reunião com Cliente,1.0
+2025-01-18,Reforma F,João Lima,Eduardo,Modelagem 3D,2.8
+2025-01-18,Escritório C,Grupo Beta,Ana,Visita Técnica,3.9
+2025-01-18,Comercial B,Construtora Alfa,Carlos,Visita Técnica,3.9
+2025-01-19,Reforma F,Família Souza,Eduardo,Projeto Executivo,2.0
+2025-01-19,Apartamento D,Grupo Beta,Diana,Visita Técnica,2.4
+2025-01-19,Residência A,Construtora Alfa,Bruno,Reunião com Cliente,0.5
+2025-01-19,Apartamento D,Família Souza,Bruno,Desenho CAD,6.2
+2025-01-19,Apartamento D,PVCP,Diana,Visita Técnica,3.7
+2025-01-19,Apartamento D,PVCP,Eduardo,Visita Técnica,2.4
+2025-01-19,Apartamento D,Construtora Alfa,Ana,Visita Técnica,2.7
+2025-01-19,Obra E,João Lima,Diana,Desenho CAD,2.8
+2025-01-19,Comercial B,PVCP,Diana,Reunião com Cliente,4.1
+2025-01-19,Comercial B,Construtora Alfa,Eduardo,Modelagem 3D,6.8
+2025-01-19,Reforma F,PVCP,Ana,Desenho CAD,2.5
+2025-01-19,Apartamento D,Família Souza,Carlos,Orçamento,2.4
+2025-01-19,Reforma F,Família Souza,Bruno,Projeto Executivo,5.0
+2025-01-19,Escritório C,Construtora Alfa,Carlos,Desenho CAD,3.4
+2025-01-19,Reforma F,Família Souza,Ana,Modelagem 3D,3.7
+2025-01-20,Residência A,PVCP,Eduardo,Modelagem 3D,4.8
+2025-01-20,Obra E,Família Souza,Eduardo,Reunião com Cliente,3.0
+2025-01-20,Apartamento D,João Lima,Bruno,Projeto Executivo,3.6
+2025-01-20,Reforma F,Construtora Alfa,Eduardo,Desenho CAD,6.0
+2025-01-20,Reforma F,PVCP,Bruno,Desenho CAD,5.3
+2025-01-20,Reforma F,João Lima,Eduardo,Desenho CAD,1.3
+2025-01-20,Escritório C,Construtora Alfa,Diana,Desenho CAD,5.9
+2025-01-20,Escritório C,PVCP,Carlos,Orçamento,6.7
+2025-01-21,Residência A,João Lima,Diana,Desenho CAD,3.9
+2025-01-21,Residência A,Grupo Beta,Bruno,Modelagem 3D,6.1
+2025-01-21,Residência A,Família Souza,Ana,Projeto Executivo,2.6
+2025-01-21,Reforma F,João Lima,Eduardo,Reunião com Cliente,4.2
+2025-01-21,Apartamento D,João Lima,Diana,Projeto Executivo,2.5
+2025-01-21,Apartamento D,Família Souza,Eduardo,Desenho CAD,5.1
+2025-01-21,Apartamento D,João Lima,Eduardo,Projeto Executivo,2.8
+2025-01-21,Reforma F,Grupo Beta,Carlos,Desenho CAD,7.0
+2025-01-21,Obra E,PVCP,Diana,Modelagem 3D,2.8
+2025-01-21,Reforma F,PVCP,Ana,Desenho CAD,4.5
+2025-01-21,Obra E,João Lima,Eduardo,Reunião com Cliente,5.7
+2025-01-22,Obra E,Grupo Beta,Carlos,Modelagem 3D,5.1
+2025-01-22,Residência A,Família Souza,Diana,Visita Técnica,5.2
+2025-01-22,Reforma F,João Lima,Ana,Modelagem 3D,4.5
+2025-01-22,Apartamento D,Construtora Alfa,Bruno,Desenho CAD,4.6
+2025-01-22,Apartamento D,João Lima,Carlos,Projeto Executivo,3.5
+2025-01-22,Obra E,Família Souza,Diana,Projeto Executivo,3.2
+2025-01-22,Comercial B,Família Souza,Eduardo,Orçamento,6.8
+2025-01-22,Obra E,Família Souza,Carlos,Visita Técnica,5.6
+2025-01-23,Obra E,Grupo Beta,Diana,Modelagem 3D,1.9
+2025-01-23,Escritório C,Construtora Alfa,Carlos,Reunião com Cliente,5.1
+2025-01-23,Reforma F,Grupo Beta,Ana,Desenho CAD,0.5
+2025-01-23,Escritório C,Grupo Beta,Bruno,Orçamento,4.1
+2025-01-23,Comercial B,João Lima,Bruno,Orçamento,4.9
+2025-01-23,Escritório C,Família Souza,Eduardo,Projeto Executivo,4.6
+2025-01-23,Reforma F,Construtora Alfa,Bruno,Reunião com Cliente,1.1
+2025-01-23,Comercial B,PVCP,Diana,Desenho CAD,5.7
+2025-01-23,Escritório C,Grupo Beta,Bruno,Modelagem 3D,3.7
+2025-01-23,Comercial B,Grupo Beta,Diana,Reunião com Cliente,4.4
+2025-01-23,Reforma F,Construtora Alfa,Ana,Orçamento,3.5
+2025-01-23,Escritório C,Construtora Alfa,Diana,Modelagem 3D,3.5
+2025-01-23,Escritório C,João Lima,Eduardo,Reunião com Cliente,2.4
+2025-01-23,Obra E,João Lima,Ana,Projeto Executivo,3.7
+2025-01-24,Escritório C,Grupo Beta,Ana,Projeto Executivo,3.5
+2025-01-24,Obra E,Grupo Beta,Ana,Visita Técnica,2.1
+2025-01-24,Apartamento D,João Lima,Diana,Desenho CAD,4.5
+2025-01-24,Escritório C,Construtora Alfa,Diana,Reunião com Cliente,4.1
+2025-01-24,Comercial B,PVCP,Carlos,Orçamento,5.6
+2025-01-24,Obra E,Grupo Beta,Eduardo,Projeto Executivo,7.2
+2025-01-24,Residência A,PVCP,Carlos,Modelagem 3D,4.0
+2025-01-24,Residência A,Grupo Beta,Diana,Visita Técnica,4.4
+2025-01-24,Comercial B,Grupo Beta,Eduardo,Visita Técnica,1.3
+2025-01-24,Apartamento D,PVCP,Carlos,Modelagem 3D,5.9
+2025-01-24,Comercial B,Grupo Beta,Carlos,Visita Técnica,4.4
+2025-01-24,Residência A,Grupo Beta,Eduardo,Visita Técnica,5.8
+2025-01-24,Escritório C,PVCP,Bruno,Modelagem 3D,2.5
+2025-01-24,Reforma F,Grupo Beta,Ana,Reunião com Cliente,5.4
+2025-01-24,Obra E,João Lima,Ana,Visita Técnica,4.1
+2025-01-24,Obra E,Construtora Alfa,Bruno,Modelagem 3D,5.1
+2025-01-24,Reforma F,Família Souza,Diana,Orçamento,3.2
+2025-01-25,Apartamento D,João Lima,Bruno,Reunião com Cliente,5.0
+2025-01-25,Reforma F,Construtora Alfa,Eduardo,Reunião com Cliente,2.9
+2025-01-25,Obra E,PVCP,Carlos,Reunião com Cliente,6.5
+2025-01-25,Residência A,Grupo Beta,Diana,Visita Técnica,1.8
+2025-01-25,Reforma F,Construtora Alfa,Diana,Modelagem 3D,2.4
+2025-01-25,Apartamento D,Grupo Beta,Ana,Desenho CAD,5.8
+2025-01-25,Escritório C,João Lima,Bruno,Projeto Executivo,3.4
+2025-01-25,Residência A,PVCP,Diana,Reunião com Cliente,5.1
+2025-01-25,Comercial B,Construtora Alfa,Eduardo,Orçamento,5.0
+2025-01-25,Reforma F,PVCP,Carlos,Desenho CAD,5.8
+2025-01-26,Reforma F,PVCP,Carlos,Orçamento,4.5
+2025-01-26,Escritório C,Construtora Alfa,Ana,Reunião com Cliente,3.0
+2025-01-26,Comercial B,Grupo Beta,Eduardo,Orçamento,2.9
+2025-01-26,Obra E,Família Souza,Eduardo,Orçamento,5.9
+2025-01-26,Comercial B,Família Souza,Diana,Projeto Executivo,5.5
+2025-01-26,Comercial B,Grupo Beta,Diana,Modelagem 3D,2.8
+2025-01-26,Apartamento D,Grupo Beta,Eduardo,Visita Técnica,6.1
+2025-01-26,Comercial B,João Lima,Diana,Orçamento,2.8
+2025-01-26,Reforma F,Construtora Alfa,Eduardo,Reunião com Cliente,5.0
+2025-01-26,Comercial B,Família Souza,Ana,Visita Técnica,3.9
+2025-01-26,Apartamento D,Família Souza,Eduardo,Visita Técnica,5.4
+2025-01-26,Reforma F,PVCP,Eduardo,Projeto Executivo,3.0
+2025-01-27,Apartamento D,Grupo Beta,Ana,Visita Técnica,6.0
+2025-01-27,Apartamento D,Família Souza,Diana,Reunião com Cliente,3.7
+2025-01-27,Reforma F,Grupo Beta,Carlos,Orçamento,5.3
+2025-01-27,Obra E,PVCP,Diana,Desenho CAD,3.4
+2025-01-27,Escritório C,PVCP,Diana,Reunião com Cliente,5.4
+2025-01-27,Escritório C,Grupo Beta,Ana,Desenho CAD,3.6
+2025-01-27,Apartamento D,Grupo Beta,Carlos,Projeto Executivo,4.6
+2025-01-27,Comercial B,Família Souza,Ana,Reunião com Cliente,3.1
+2025-01-27,Residência A,Grupo Beta,Bruno,Visita Técnica,2.6
+2025-01-27,Apartamento D,João Lima,Eduardo,Visita Técnica,4.5
+2025-01-27,Obra E,João Lima,Ana,Orçamento,5.8
+2025-01-28,Comercial B,Família Souza,Bruno,Modelagem 3D,1.4
+2025-01-28,Comercial B,PVCP,Carlos,Orçamento,2.4
+2025-01-28,Apartamento D,Família Souza,Diana,Visita Técnica,3.4
+2025-01-28,Residência A,Grupo Beta,Eduardo,Orçamento,4.2
+2025-01-28,Escritório C,João Lima,Carlos,Projeto Executivo,4.0
+2025-01-28,Escritório C,PVCP,Eduardo,Visita Técnica,2.9
+2025-01-28,Obra E,PVCP,Eduardo,Orçamento,3.8
+2025-01-28,Residência A,Família Souza,Ana,Reunião com Cliente,3.0
+2025-01-28,Escritório C,Grupo Beta,Eduardo,Reunião com Cliente,2.1
+2025-01-28,Residência A,Grupo Beta,Eduardo,Visita Técnica,3.4
+2025-01-29,Apartamento D,PVCP,Ana,Reunião com Cliente,2.4
+2025-01-29,Comercial B,PVCP,Diana,Projeto Executivo,4.4
+2025-01-29,Escritório C,PVCP,Diana,Visita Técnica,2.3
+2025-01-29,Apartamento D,PVCP,Eduardo,Orçamento,2.0
+2025-01-29,Apartamento D,João Lima,Carlos,Orçamento,2.9
+2025-01-29,Comercial B,Família Souza,Ana,Reunião com Cliente,6.5
+2025-01-29,Escritório C,João Lima,Carlos,Projeto Executivo,5.4
+2025-01-29,Comercial B,Construtora Alfa,Eduardo,Desenho CAD,4.6
+2025-01-30,Comercial B,Grupo Beta,Bruno,Desenho CAD,4.2
+2025-01-30,Residência A,PVCP,Carlos,Modelagem 3D,3.3
+2025-01-30,Residência A,João Lima,Ana,Projeto Executivo,3.4
+2025-01-30,Residência A,PVCP,Eduardo,Projeto Executivo,7.0
+2025-01-30,Residência A,Família Souza,Carlos,Reunião com Cliente,6.3
+2025-01-30,Reforma F,Construtora Alfa,Eduardo,Reunião com Cliente,6.2
+2025-01-30,Residência A,PVCP,Ana,Reunião com Cliente,2.8
+2025-01-30,Escritório C,Construtora Alfa,Bruno,Reunião com Cliente,4.8
+2025-01-30,Comercial B,João Lima,Carlos,Desenho CAD,4.2
+2025-01-30,Escritório C,Família Souza,Bruno,Visita Técnica,2.1
+2025-01-31,Obra E,Família Souza,Bruno,Orçamento,5.9
+2025-01-31,Comercial B,Família Souza,Eduardo,Modelagem 3D,3.3
+2025-01-31,Comercial B,Construtora Alfa,Ana,Orçamento,4.2
+2025-01-31,Residência A,PVCP,Eduardo,Orçamento,2.1
+2025-02-01,Comercial B,PVCP,Eduardo,Orçamento,3.0
+2025-02-01,Comercial B,João Lima,Carlos,Orçamento,5.8
+2025-02-01,Comercial B,Construtora Alfa,Carlos,Reunião com Cliente,3.4
+2025-02-01,Comercial B,João Lima,Ana,Reunião com Cliente,5.6
+2025-02-01,Reforma F,João Lima,Ana,Desenho CAD,2.6
+2025-02-01,Residência A,PVCP,Eduardo,Reunião com Cliente,4.5
+2025-02-01,Comercial B,Família Souza,Eduardo,Projeto Executivo,7.6
+2025-02-01,Escritório C,Família Souza,Bruno,Reunião com Cliente,4.4
+2025-02-01,Reforma F,Família Souza,Ana,Reunião com Cliente,6.1
+2025-02-01,Obra E,Grupo Beta,Bruno,Projeto Executivo,3.8
+2025-02-01,Escritório C,Grupo Beta,Bruno,Orçamento,3.2
+2025-02-01,Escritório C,PVCP,Carlos,Projeto Executivo,3.4
+2025-02-02,Residência A,Família Souza,Ana,Orçamento,3.6
+2025-02-02,Obra E,Grupo Beta,Ana,Projeto Executivo,2.9
+2025-02-02,Comercial B,João Lima,Ana,Orçamento,2.7
+2025-02-02,Obra E,Construtora Alfa,Bruno,Modelagem 3D,4.0
+2025-02-02,Apartamento D,Construtora Alfa,Ana,Visita Técnica,5.4
+2025-02-02,Escritório C,Grupo Beta,Bruno,Projeto Executivo,2.1
+2025-02-02,Escritório C,PVCP,Bruno,Visita Técnica,3.5
+2025-02-02,Comercial B,Família Souza,Ana,Desenho CAD,1.9
+2025-02-02,Obra E,João Lima,Eduardo,Visita Técnica,2.6
+2025-02-02,Escritório C,João Lima,Carlos,Visita Técnica,3.4
+2025-02-02,Reforma F,Grupo Beta,Ana,Desenho CAD,3.1
+2025-02-02,Comercial B,PVCP,Ana,Reunião com Cliente,4.4
+2025-02-02,Reforma F,Família Souza,Diana,Modelagem 3D,3.8
+2025-02-02,Comercial B,PVCP,Eduardo,Desenho CAD,4.6
+2025-02-02,Comercial B,Construtora Alfa,Diana,Orçamento,4.3
+2025-02-02,Escritório C,Construtora Alfa,Bruno,Orçamento,1.7
+2025-02-02,Apartamento D,João Lima,Eduardo,Modelagem 3D,1.5
+2025-02-02,Obra E,João Lima,Ana,Orçamento,3.1
+2025-02-02,Reforma F,Família Souza,Bruno,Modelagem 3D,6.4
+2025-02-02,Apartamento D,Construtora Alfa,Ana,Orçamento,6.0
+2025-02-03,Escritório C,PVCP,Carlos,Reunião com Cliente,3.5
+2025-02-03,Obra E,PVCP,Carlos,Modelagem 3D,2.8
+2025-02-03,Escritório C,PVCP,Bruno,Projeto Executivo,2.5
+2025-02-03,Apartamento D,PVCP,Ana,Projeto Executivo,5.2
+2025-02-03,Comercial B,Família Souza,Carlos,Projeto Executivo,2.5
+2025-02-03,Residência A,PVCP,Carlos,Desenho CAD,2.3
+2025-02-03,Obra E,Grupo Beta,Ana,Desenho CAD,2.7
+2025-02-03,Escritório C,PVCP,Bruno,Visita Técnica,4.8
+2025-02-03,Residência A,Construtora Alfa,Ana,Projeto Executivo,3.0
+2025-02-03,Escritório C,João Lima,Carlos,Orçamento,4.1
+2025-02-03,Comercial B,Grupo Beta,Ana,Visita Técnica,3.2
+2025-02-04,Reforma F,João Lima,Ana,Orçamento,4.7
+2025-02-04,Obra E,PVCP,Ana,Projeto Executivo,3.6
+2025-02-04,Obra E,Grupo Beta,Diana,Desenho CAD,4.3
+2025-02-04,Apartamento D,Grupo Beta,Diana,Reunião com Cliente,2.6
+2025-02-04,Residência A,Grupo Beta,Ana,Desenho CAD,4.6
+2025-02-04,Comercial B,Grupo Beta,Bruno,Reunião com Cliente,3.3
+2025-02-04,Escritório C,Grupo Beta,Carlos,Reunião com Cliente,6.0
+2025-02-04,Escritório C,Construtora Alfa,Carlos,Modelagem 3D,1.0
+2025-02-04,Residência A,PVCP,Diana,Desenho CAD,3.8
+2025-02-04,Residência A,Família Souza,Carlos,Reunião com Cliente,5.0
+2025-02-04,Residência A,Construtora Alfa,Diana,Projeto Executivo,4.3
+2025-02-04,Escritório C,Construtora Alfa,Carlos,Desenho CAD,1.8
+2025-02-05,Apartamento D,Família Souza,Bruno,Orçamento,2.5
+2025-02-05,Obra E,PVCP,Eduardo,Modelagem 3D,1.4
+2025-02-05,Escritório C,PVCP,Ana,Projeto Executivo,5.7
+2025-02-05,Reforma F,João Lima,Diana,Modelagem 3D,5.6
+2025-02-05,Residência A,Família Souza,Ana,Visita Técnica,4.2
+2025-02-05,Residência A,Família Souza,Diana,Projeto Executivo,1.7
+2025-02-05,Residência A,Grupo Beta,Carlos,Desenho CAD,2.5
+2025-02-05,Apartamento D,João Lima,Eduardo,Desenho CAD,3.3
+2025-02-05,Escritório C,João Lima,Diana,Modelagem 3D,3.8
+2025-02-05,Obra E,Grupo Beta,Diana,Projeto Executivo,4.1
+2025-02-05,Escritório C,Grupo Beta,Carlos,Modelagem 3D,4.9
+2025-02-05,Reforma F,PVCP,Ana,Reunião com Cliente,2.8
+2025-02-05,Escritório C,João Lima,Eduardo,Desenho CAD,4.1
+2025-02-06,Residência A,Grupo Beta,Diana,Projeto Executivo,3.0
+2025-02-06,Obra E,PVCP,Carlos,Visita Técnica,2.5
+2025-02-06,Reforma F,João Lima,Eduardo,Visita Técnica,2.7
+2025-02-06,Apartamento D,Grupo Beta,Diana,Reunião com Cliente,4.6
+2025-02-06,Apartamento D,Construtora Alfa,Eduardo,Orçamento,7.4
+2025-02-06,Apartamento D,Grupo Beta,Ana,Projeto Executivo,4.0
+2025-02-06,Comercial B,João Lima,Bruno,Projeto Executivo,3.5
+2025-02-06,Comercial B,João Lima,Carlos,Visita Técnica,3.0
+2025-02-07,Comercial B,João Lima,Bruno,Reunião com Cliente,3.1
+2025-02-07,Obra E,Grupo Beta,Bruno,Modelagem 3D,3.6
+2025-02-07,Obra E,João Lima,Bruno,Orçamento,5.1
+2025-02-07,Reforma F,Família Souza,Carlos,Modelagem 3D,2.4
+2025-02-07,Comercial B,Grupo Beta,Eduardo,Desenho CAD,2.6
+2025-02-07,Obra E,Grupo Beta,Diana,Visita Técnica,5.2
+2025-02-07,Apartamento D,Grupo Beta,Eduardo,Visita Técnica,2.9
+2025-02-07,Reforma F,Construtora Alfa,Ana,Projeto Executivo,2.9
+2025-02-07,Comercial B,PVCP,Carlos,Orçamento,5.7
+2025-02-07,Escritório C,Grupo Beta,Carlos,Projeto Executivo,2.8
+2025-02-07,Residência A,Construtora Alfa,Ana,Visita Técnica,3.6
+2025-02-07,Escritório C,PVCP,Bruno,Modelagem 3D,2.8
+2025-02-08,Comercial B,João Lima,Diana,Orçamento,5.7
+2025-02-08,Escritório C,Família Souza,Eduardo,Orçamento,1.6
+2025-02-08,Reforma F,Família Souza,Eduardo,Modelagem 3D,4.0
+2025-02-08,Escritório C,Grupo Beta,Eduardo,Modelagem 3D,5.2
+2025-02-08,Obra E,PVCP,Diana,Reunião com Cliente,5.5
+2025-02-08,Obra E,Família Souza,Eduardo,Desenho CAD,4.6
+2025-02-08,Reforma F,Construtora Alfa,Eduardo,Orçamento,3.6
+2025-02-08,Escritório C,PVCP,Bruno,Modelagem 3D,3.4
+2025-02-08,Escritório C,Família Souza,Carlos,Desenho CAD,3.8
+2025-02-08,Obra E,Família Souza,Diana,Visita Técnica,4.8
+2025-02-08,Obra E,Construtora Alfa,Carlos,Visita Técnica,2.1
+2025-02-08,Escritório C,Construtora Alfa,Diana,Visita Técnica,4.2
+2025-02-09,Comercial B,Grupo Beta,Eduardo,Modelagem 3D,2.1
+2025-02-09,Obra E,João Lima,Diana,Visita Técnica,5.3
+2025-02-09,Apartamento D,Grupo Beta,Diana,Visita Técnica,2.8
+2025-02-09,Obra E,Construtora Alfa,Ana,Reunião com Cliente,4.9
+2025-02-09,Escritório C,Família Souza,Eduardo,Desenho CAD,1.9
+2025-02-09,Escritório C,Família Souza,Ana,Projeto Executivo,2.6
+2025-02-09,Apartamento D,Construtora Alfa,Ana,Reunião com Cliente,5.7
+2025-02-09,Residência A,Construtora Alfa,Eduardo,Desenho CAD,3.1
+2025-02-09,Residência A,PVCP,Ana,Modelagem 3D,6.5
+2025-02-10,Comercial B,Grupo Beta,Bruno,Projeto Executivo,4.4
+2025-02-10,Residência A,PVCP,Bruno,Modelagem 3D,6.9
+2025-02-10,Apartamento D,Construtora Alfa,Eduardo,Desenho CAD,3.7
+2025-02-10,Reforma F,Grupo Beta,Diana,Orçamento,5.6
+2025-02-10,Apartamento D,Família Souza,Bruno,Projeto Executivo,3.5
+2025-02-11,Escritório C,Construtora Alfa,Eduardo,Visita Técnica,1.7
+2025-02-11,Escritório C,Família Souza,Diana,Desenho CAD,3.3
+2025-02-11,Escritório C,Grupo Beta,Diana,Projeto Executivo,1.0
+2025-02-11,Comercial B,Família Souza,Bruno,Reunião com Cliente,3.0
+2025-02-11,Apartamento D,João Lima,Ana,Projeto Executivo,3.9
+2025-02-11,Reforma F,Grupo Beta,Ana,Orçamento,4.9
+2025-02-11,Reforma F,Grupo Beta,Diana,Desenho CAD,3.4
+2025-02-11,Residência A,João Lima,Carlos,Modelagem 3D,0.9
+2025-02-11,Comercial B,PVCP,Bruno,Desenho CAD,0.7
+2025-02-11,Residência A,Construtora Alfa,Ana,Modelagem 3D,4.3
+2025-02-12,Escritório C,João Lima,Eduardo,Modelagem 3D,2.1
+2025-02-12,Reforma F,Construtora Alfa,Bruno,Projeto Executivo,3.5
+2025-02-12,Escritório C,PVCP,Diana,Projeto Executivo,2.8
+2025-02-12,Escritório C,Família Souza,Bruno,Visita Técnica,3.3
+2025-02-12,Reforma F,João Lima,Carlos,Orçamento,1.2
+2025-02-13,Escritório C,Família Souza,Carlos,Visita Técnica,2.9
+2025-02-13,Apartamento D,João Lima,Ana,Reunião com Cliente,5.4
+2025-02-13,Apartamento D,João Lima,Eduardo,Orçamento,6.4
+2025-02-13,Comercial B,PVCP,Ana,Visita Técnica,5.0
+2025-02-13,Escritório C,João Lima,Carlos,Desenho CAD,2.9
+2025-02-13,Obra E,Família Souza,Carlos,Reunião com Cliente,3.1
+2025-02-13,Apartamento D,Família Souza,Ana,Visita Técnica,6.0
+2025-02-13,Obra E,João Lima,Diana,Modelagem 3D,3.0
+2025-02-13,Apartamento D,Grupo Beta,Diana,Orçamento,4.5
+2025-02-13,Residência A,Grupo Beta,Eduardo,Desenho CAD,3.4
+2025-02-13,Comercial B,Grupo Beta,Carlos,Projeto Executivo,5.2
+2025-02-13,Reforma F,Construtora Alfa,Eduardo,Visita Técnica,6.4
+2025-02-14,Apartamento D,Grupo Beta,Carlos,Modelagem 3D,4.1
+2025-02-14,Residência A,PVCP,Diana,Reunião com Cliente,2.6
+2025-02-14,Residência A,Construtora Alfa,Eduardo,Modelagem 3D,4.6
+2025-02-14,Apartamento D,PVCP,Ana,Desenho CAD,7.5
+2025-02-14,Reforma F,Construtora Alfa,Diana,Projeto Executivo,4.2
+2025-02-14,Obra E,PVCP,Carlos,Desenho CAD,1.9
+2025-02-14,Apartamento D,Construtora Alfa,Bruno,Orçamento,3.9
+2025-02-14,Apartamento D,Grupo Beta,Ana,Desenho CAD,2.4
+2025-02-14,Escritório C,Construtora Alfa,Ana,Visita Técnica,5.2
+2025-02-14,Obra E,Grupo Beta,Diana,Reunião com Cliente,2.6
+2025-02-15,Residência A,Construtora Alfa,Diana,Reunião com Cliente,3.8
+2025-02-15,Escritório C,PVCP,Eduardo,Desenho CAD,2.9
+2025-02-15,Reforma F,Construtora Alfa,Eduardo,Projeto Executivo,1.3
+2025-02-15,Escritório C,João Lima,Carlos,Reunião com Cliente,7.2
+2025-02-15,Residência A,João Lima,Ana,Visita Técnica,3.4
+2025-02-15,Reforma F,João Lima,Bruno,Projeto Executivo,1.9
+2025-02-15,Residência A,João Lima,Carlos,Visita Técnica,4.0
+2025-02-16,Reforma F,Família Souza,Eduardo,Orçamento,2.6
+2025-02-16,Residência A,Construtora Alfa,Diana,Modelagem 3D,5.1
+2025-02-16,Obra E,Construtora Alfa,Ana,Projeto Executivo,3.6
+2025-02-16,Comercial B,Grupo Beta,Carlos,Orçamento,4.3
+2025-02-16,Escritório C,Família Souza,Carlos,Reunião com Cliente,2.5
+2025-02-16,Obra E,João Lima,Eduardo,Modelagem 3D,3.2
+2025-02-16,Escritório C,Família Souza,Bruno,Orçamento,5.5
+2025-02-16,Apartamento D,João Lima,Eduardo,Projeto Executivo,5.8
+2025-02-16,Residência A,PVCP,Bruno,Modelagem 3D,3.3
+2025-02-16,Reforma F,Grupo Beta,Carlos,Visita Técnica,5.3
+2025-02-16,Reforma F,Grupo Beta,Diana,Orçamento,5.5
+2025-02-16,Apartamento D,PVCP,Ana,Orçamento,4.7
+2025-02-16,Apartamento D,Grupo Beta,Bruno,Orçamento,2.5
+2025-02-17,Apartamento D,PVCP,Ana,Reunião com Cliente,5.4
+2025-02-17,Residência A,Construtora Alfa,Eduardo,Visita Técnica,4.1
+2025-02-17,Comercial B,Construtora Alfa,Carlos,Desenho CAD,5.7
+2025-02-17,Reforma F,PVCP,Ana,Visita Técnica,4.3
+2025-02-17,Comercial B,Construtora Alfa,Diana,Desenho CAD,3.4
+2025-02-17,Obra E,PVCP,Ana,Visita Técnica,2.6
+2025-02-17,Comercial B,Grupo Beta,Carlos,Desenho CAD,4.5
+2025-02-17,Obra E,Construtora Alfa,Eduardo,Projeto Executivo,4.3
+2025-02-17,Escritório C,Construtora Alfa,Carlos,Projeto Executivo,3.5
+2025-02-17,Apartamento D,Construtora Alfa,Eduardo,Orçamento,4.4
+2025-02-17,Comercial B,PVCP,Eduardo,Reunião com Cliente,3.3
+2025-02-18,Obra E,Construtora Alfa,Ana,Desenho CAD,2.0
+2025-02-18,Residência A,Família Souza,Carlos,Desenho CAD,5.0
+2025-02-18,Residência A,Família Souza,Carlos,Orçamento,3.1
+2025-02-18,Residência A,João Lima,Diana,Reunião com Cliente,4.3
+2025-02-18,Obra E,Grupo Beta,Carlos,Reunião com Cliente,5.4
+2025-02-18,Reforma F,Grupo Beta,Bruno,Reunião com Cliente,6.4
+2025-02-18,Comercial B,Construtora Alfa,Bruno,Modelagem 3D,3.4
+2025-02-18,Apartamento D,PVCP,Eduardo,Orçamento,1.5
+2025-02-18,Obra E,João Lima,Ana,Modelagem 3D,4.1
+2025-02-18,Residência A,João Lima,Eduardo,Reunião com Cliente,5.6
+2025-02-19,Obra E,PVCP,Eduardo,Reunião com Cliente,4.8
+2025-02-19,Comercial B,Grupo Beta,Eduardo,Reunião com Cliente,4.1
+2025-02-19,Apartamento D,Família Souza,Diana,Desenho CAD,4.0
+2025-02-19,Residência A,Família Souza,Ana,Modelagem 3D,2.8
+2025-02-19,Reforma F,Grupo Beta,Eduardo,Visita Técnica,4.3
+2025-02-19,Reforma F,Construtora Alfa,Diana,Desenho CAD,1.1
+2025-02-19,Reforma F,Construtora Alfa,Diana,Modelagem 3D,1.6
+2025-02-19,Reforma F,Construtora Alfa,Carlos,Projeto Executivo,3.8
+2025-02-19,Obra E,Grupo Beta,Carlos,Projeto Executivo,2.9
+2025-02-19,Obra E,Construtora Alfa,Ana,Projeto Executivo,5.3
+2025-02-19,Obra E,Construtora Alfa,Diana,Modelagem 3D,4.8
+2025-02-20,Comercial B,João Lima,Carlos,Reunião com Cliente,4.3
+2025-02-20,Comercial B,Família Souza,Bruno,Desenho CAD,5.3
+2025-02-20,Residência A,Família Souza,Carlos,Orçamento,1.7
+2025-02-20,Apartamento D,João Lima,Carlos,Reunião com Cliente,4.2
+2025-02-20,Residência A,Grupo Beta,Eduardo,Desenho CAD,5.3
+2025-02-20,Escritório C,Construtora Alfa,Carlos,Modelagem 3D,1.9
+2025-02-20,Obra E,Construtora Alfa,Diana,Reunião com Cliente,4.9
+2025-02-20,Obra E,PVCP,Bruno,Desenho CAD,1.2
+2025-02-20,Obra E,Família Souza,Bruno,Visita Técnica,5.9
+2025-02-20,Residência A,PVCP,Ana,Desenho CAD,4.0
+2025-02-20,Escritório C,Construtora Alfa,Bruno,Orçamento,4.0
+2025-02-20,Apartamento D,Família Souza,Bruno,Desenho CAD,3.1
+2025-02-20,Apartamento D,João Lima,Ana,Reunião com Cliente,3.4
+2025-02-20,Obra E,João Lima,Eduardo,Reunião com Cliente,6.2
+2025-02-20,Residência A,Grupo Beta,Diana,Visita Técnica,3.8
+2025-02-21,Obra E,Construtora Alfa,Carlos,Visita Técnica,4.2
+2025-02-21,Apartamento D,Família Souza,Bruno,Visita Técnica,2.9
+2025-02-21,Apartamento D,Grupo Beta,Carlos,Projeto Executivo,3.3
+2025-02-21,Escritório C,Família Souza,Carlos,Reunião com Cliente,1.9
+2025-02-21,Apartamento D,Grupo Beta,Ana,Projeto Executivo,3.7
+2025-02-21,Obra E,Grupo Beta,Bruno,Desenho CAD,4.7
+2025-02-21,Escritório C,Construtora Alfa,Carlos,Modelagem 3D,4.6
+2025-02-21,Apartamento D,Família Souza,Diana,Orçamento,5.7
+2025-02-21,Obra E,Grupo Beta,Diana,Orçamento,3.2
+2025-02-21,Reforma F,João Lima,Carlos,Visita Técnica,3.6
+2025-02-21,Obra E,PVCP,Diana,Reunião com Cliente,3.2
+2025-02-21,Residência A,Construtora Alfa,Carlos,Modelagem 3D,3.9
+2025-02-21,Residência A,Grupo Beta,Carlos,Desenho CAD,1.1
+2025-02-22,Reforma F,Família Souza,Diana,Orçamento,5.6
+2025-02-22,Comercial B,João Lima,Ana,Orçamento,4.3
+2025-02-22,Escritório C,PVCP,Eduardo,Projeto Executivo,3.3
+2025-02-22,Escritório C,Construtora Alfa,Diana,Desenho CAD,4.8
+2025-02-22,Reforma F,Grupo Beta,Diana,Visita Técnica,3.0
+2025-02-22,Obra E,Família Souza,Eduardo,Reunião com Cliente,4.1
+2025-02-22,Reforma F,João Lima,Eduardo,Modelagem 3D,3.4
+2025-02-22,Apartamento D,Família Souza,Diana,Visita Técnica,5.2
+2025-02-22,Comercial B,PVCP,Ana,Desenho CAD,3.4
+2025-02-22,Apartamento D,Grupo Beta,Ana,Projeto Executivo,3.2
+2025-02-22,Escritório C,PVCP,Ana,Visita Técnica,4.1
+2025-02-22,Obra E,Construtora Alfa,Carlos,Orçamento,4.0
+2025-02-23,Reforma F,Construtora Alfa,Carlos,Reunião com Cliente,5.3
+2025-02-23,Escritório C,Construtora Alfa,Eduardo,Visita Técnica,6.7
+2025-02-23,Escritório C,João Lima,Diana,Orçamento,2.9
+2025-02-23,Residência A,Grupo Beta,Eduardo,Reunião com Cliente,4.6
+2025-02-23,Reforma F,Grupo Beta,Bruno,Orçamento,4.3
+2025-02-23,Apartamento D,Grupo Beta,Bruno,Desenho CAD,2.8
+2025-02-23,Obra E,João Lima,Carlos,Orçamento,4.5
+2025-02-23,Apartamento D,Grupo Beta,Diana,Modelagem 3D,2.5
+2025-02-23,Obra E,Construtora Alfa,Eduardo,Desenho CAD,4.3
+2025-02-23,Obra E,Grupo Beta,Ana,Desenho CAD,4.8
+2025-02-23,Residência A,Construtora Alfa,Eduardo,Reunião com Cliente,2.1
+2025-02-23,Comercial B,João Lima,Carlos,Orçamento,5.0
+2025-02-24,Apartamento D,PVCP,Ana,Visita Técnica,2.9
+2025-02-24,Obra E,Grupo Beta,Ana,Modelagem 3D,2.7
+2025-02-24,Escritório C,Construtora Alfa,Bruno,Reunião com Cliente,4.0
+2025-02-24,Obra E,PVCP,Diana,Visita Técnica,1.1
+2025-02-24,Escritório C,João Lima,Bruno,Desenho CAD,4.3
+2025-02-24,Residência A,PVCP,Carlos,Projeto Executivo,2.4
+2025-02-24,Escritório C,João Lima,Diana,Desenho CAD,5.6
+2025-02-24,Escritório C,João Lima,Diana,Desenho CAD,5.9
+2025-02-25,Apartamento D,João Lima,Diana,Modelagem 3D,4.3
+2025-02-25,Obra E,Construtora Alfa,Eduardo,Projeto Executivo,2.5
+2025-02-25,Reforma F,Família Souza,Bruno,Reunião com Cliente,2.5
+2025-02-25,Escritório C,João Lima,Diana,Reunião com Cliente,2.6
+2025-02-25,Escritório C,Construtora Alfa,Diana,Modelagem 3D,6.2
+2025-02-25,Obra E,PVCP,Eduardo,Visita Técnica,4.9
+2025-02-25,Reforma F,Construtora Alfa,Carlos,Orçamento,5.3
+2025-02-25,Residência A,João Lima,Diana,Reunião com Cliente,5.3
+2025-02-25,Apartamento D,Grupo Beta,Eduardo,Reunião com Cliente,5.1
+2025-02-25,Comercial B,João Lima,Carlos,Projeto Executivo,1.6
+2025-02-26,Apartamento D,Construtora Alfa,Bruno,Visita Técnica,4.1
+2025-02-26,Reforma F,Grupo Beta,Ana,Reunião com Cliente,5.4
+2025-02-26,Residência A,Família Souza,Carlos,Visita Técnica,4.8
+2025-02-26,Escritório C,Construtora Alfa,Bruno,Projeto Executivo,5.0
+2025-02-26,Escritório C,Família Souza,Carlos,Visita Técnica,2.9
+2025-02-26,Reforma F,Família Souza,Carlos,Orçamento,2.5
+2025-02-26,Obra E,João Lima,Diana,Reunião com Cliente,2.9
+2025-02-26,Escritório C,Família Souza,Ana,Modelagem 3D,2.5
+2025-02-26,Obra E,PVCP,Carlos,Desenho CAD,5.0
+2025-02-26,Comercial B,Grupo Beta,Carlos,Modelagem 3D,7.0
+2025-02-27,Residência A,Construtora Alfa,Bruno,Reunião com Cliente,2.6
+2025-02-27,Reforma F,PVCP,Diana,Orçamento,6.1
+2025-02-27,Obra E,João Lima,Bruno,Desenho CAD,3.3
+2025-02-27,Comercial B,PVCP,Bruno,Reunião com Cliente,4.5
+2025-02-27,Residência A,Construtora Alfa,Bruno,Orçamento,5.1
+2025-02-27,Escritório C,Construtora Alfa,Diana,Orçamento,2.8
+2025-02-27,Residência A,Construtora Alfa,Carlos,Modelagem 3D,3.7
+2025-02-27,Residência A,Construtora Alfa,Ana,Reunião com Cliente,4.5
+2025-02-27,Comercial B,João Lima,Ana,Reunião com Cliente,6.0
+2025-02-27,Residência A,Família Souza,Ana,Orçamento,5.3
+2025-02-27,Reforma F,Família Souza,Bruno,Modelagem 3D,1.9
+2025-02-27,Residência A,PVCP,Eduardo,Projeto Executivo,5.3
+2025-02-27,Obra E,PVCP,Eduardo,Reunião com Cliente,5.7
+2025-02-27,Reforma F,PVCP,Eduardo,Projeto Executivo,4.1
+2025-02-27,Apartamento D,João Lima,Bruno,Modelagem 3D,4.7
+2025-02-28,Escritório C,PVCP,Carlos,Projeto Executivo,3.5
+2025-02-28,Obra E,Grupo Beta,Carlos,Projeto Executivo,2.9
+2025-02-28,Obra E,Grupo Beta,Carlos,Reunião com Cliente,5.4
+2025-02-28,Escritório C,PVCP,Eduardo,Desenho CAD,4.1
+2025-02-28,Comercial B,Construtora Alfa,Diana,Projeto Executivo,3.9
+2025-02-28,Escritório C,Construtora Alfa,Eduardo,Reunião com Cliente,5.5
+2025-02-28,Comercial B,Construtora Alfa,Diana,Desenho CAD,2.8
+2025-02-28,Residência A,João Lima,Bruno,Visita Técnica,2.2
+2025-02-28,Apartamento D,Família Souza,Ana,Desenho CAD,5.0
+2025-02-28,Escritório C,Construtora Alfa,Eduardo,Orçamento,6.9
+2025-02-28,Reforma F,Grupo Beta,Bruno,Desenho CAD,4.1
+2025-02-28,Residência A,João Lima,Carlos,Desenho CAD,3.4
+2025-03-01,Residência A,Família Souza,Carlos,Desenho CAD,4.9
+2025-03-01,Apartamento D,Família Souza,Carlos,Visita Técnica,3.9
+2025-03-01,Escritório C,PVCP,Ana,Desenho CAD,3.1
+2025-03-01,Comercial B,Grupo Beta,Eduardo,Orçamento,1.5
+2025-03-01,Comercial B,Grupo Beta,Ana,Reunião com Cliente,1.7
+2025-03-01,Escritório C,Grupo Beta,Bruno,Reunião com Cliente,1.0
+2025-03-01,Reforma F,Grupo Beta,Diana,Reunião com Cliente,3.6
+2025-03-01,Comercial B,PVCP,Carlos,Visita Técnica,2.4
+2025-03-01,Apartamento D,Grupo Beta,Carlos,Modelagem 3D,1.9
+2025-03-01,Apartamento D,Construtora Alfa,Ana,Desenho CAD,4.2
+2025-03-01,Comercial B,Grupo Beta,Diana,Desenho CAD,4.2
+2025-03-01,Comercial B,Grupo Beta,Carlos,Projeto Executivo,3.4
+2025-03-01,Residência A,João Lima,Carlos,Desenho CAD,2.2
+2025-03-02,Residência A,Família Souza,Bruno,Modelagem 3D,5.4
+2025-03-02,Reforma F,Construtora Alfa,Eduardo,Projeto Executivo,5.4
+2025-03-02,Comercial B,João Lima,Ana,Desenho CAD,2.5
+2025-03-02,Reforma F,Grupo Beta,Diana,Modelagem 3D,3.9
+2025-03-02,Reforma F,Grupo Beta,Ana,Visita Técnica,2.8
+2025-03-02,Escritório C,João Lima,Eduardo,Orçamento,3.5
+2025-03-02,Apartamento D,João Lima,Bruno,Reunião com Cliente,1.1
+2025-03-02,Escritório C,Grupo Beta,Eduardo,Projeto Executivo,5.4
+2025-03-02,Comercial B,Grupo Beta,Bruno,Projeto Executivo,4.5
+2025-03-02,Escritório C,Construtora Alfa,Ana,Orçamento,7.0
+2025-03-02,Obra E,João Lima,Eduardo,Reunião com Cliente,6.0
+2025-03-02,Obra E,Família Souza,Diana,Reunião com Cliente,4.3
+2025-03-03,Escritório C,PVCP,Bruno,Projeto Executivo,6.3
+2025-03-03,Comercial B,João Lima,Diana,Projeto Executivo,7.5
+2025-03-03,Apartamento D,Grupo Beta,Eduardo,Reunião com Cliente,2.4
+2025-03-03,Escritório C,Família Souza,Ana,Reunião com Cliente,6.9
+2025-03-03,Escritório C,João Lima,Diana,Projeto Executivo,6.0
+2025-03-03,Residência A,Grupo Beta,Diana,Projeto Executivo,6.3
+2025-03-03,Obra E,João Lima,Diana,Projeto Executivo,3.5
+2025-03-03,Reforma F,Construtora Alfa,Carlos,Orçamento,4.4
+2025-03-03,Residência A,Construtora Alfa,Ana,Projeto Executivo,3.2
+2025-03-03,Residência A,PVCP,Eduardo,Projeto Executivo,3.3
+2025-03-03,Comercial B,Família Souza,Bruno,Orçamento,4.7
+2025-03-03,Residência A,Construtora Alfa,Bruno,Orçamento,1.4
+2025-03-03,Reforma F,Família Souza,Ana,Visita Técnica,4.3
+2025-03-03,Obra E,João Lima,Bruno,Visita Técnica,3.0
+2025-03-03,Residência A,João Lima,Ana,Modelagem 3D,3.6
+2025-03-03,Reforma F,PVCP,Eduardo,Modelagem 3D,5.1
+2025-03-03,Comercial B,PVCP,Diana,Projeto Executivo,5.9
+2025-03-03,Obra E,PVCP,Bruno,Reunião com Cliente,5.3
+2025-03-03,Escritório C,Construtora Alfa,Bruno,Modelagem 3D,3.0
+2025-03-03,Apartamento D,João Lima,Diana,Visita Técnica,3.9
+2025-03-03,Reforma F,João Lima,Ana,Modelagem 3D,4.1
+2025-03-03,Obra E,Família Souza,Bruno,Desenho CAD,2.5
+2025-03-03,Residência A,Família Souza,Bruno,Modelagem 3D,2.4
+2025-03-04,Comercial B,Família Souza,Ana,Visita Técnica,4.3
+2025-03-04,Obra E,João Lima,Ana,Orçamento,3.2
+2025-03-04,Comercial B,Grupo Beta,Eduardo,Reunião com Cliente,3.4
+2025-03-04,Apartamento D,João Lima,Diana,Orçamento,6.1
+2025-03-04,Comercial B,Construtora Alfa,Ana,Orçamento,3.3
+2025-03-04,Obra E,João Lima,Carlos,Reunião com Cliente,3.3
+2025-03-04,Escritório C,Construtora Alfa,Bruno,Modelagem 3D,0.5
+2025-03-04,Escritório C,Família Souza,Diana,Reunião com Cliente,3.7
+2025-03-04,Comercial B,Grupo Beta,Eduardo,Desenho CAD,5.6
+2025-03-04,Comercial B,Família Souza,Bruno,Modelagem 3D,4.8
+2025-03-04,Escritório C,João Lima,Diana,Desenho CAD,5.1
+2025-03-04,Reforma F,João Lima,Ana,Orçamento,3.1
+2025-03-04,Residência A,João Lima,Bruno,Projeto Executivo,4.4
+2025-03-04,Obra E,Grupo Beta,Ana,Desenho CAD,1.9
+2025-03-05,Residência A,João Lima,Bruno,Modelagem 3D,5.7
+2025-03-05,Reforma F,João Lima,Diana,Reunião com Cliente,8.4
+2025-03-05,Reforma F,João Lima,Diana,Modelagem 3D,2.4
+2025-03-05,Reforma F,Família Souza,Bruno,Projeto Executivo,5.0
+2025-03-05,Obra E,Grupo Beta,Eduardo,Orçamento,4.5
+2025-03-05,Comercial B,Construtora Alfa,Diana,Modelagem 3D,4.3
+2025-03-05,Residência A,João Lima,Ana,Projeto Executivo,5.0
+2025-03-05,Residência A,João Lima,Eduardo,Visita Técnica,0.5
+2025-03-05,Obra E,Família Souza,Diana,Orçamento,5.7
+2025-03-05,Obra E,PVCP,Eduardo,Projeto Executivo,2.7
+2025-03-05,Residência A,Grupo Beta,Bruno,Orçamento,4.9
+2025-03-05,Escritório C,Grupo Beta,Bruno,Modelagem 3D,3.4
+2025-03-05,Comercial B,Família Souza,Carlos,Orçamento,4.3
+2025-03-06,Reforma F,João Lima,Bruno,Desenho CAD,0.5
+2025-03-06,Obra E,Família Souza,Carlos,Visita Técnica,4.7
+2025-03-06,Residência A,Construtora Alfa,Eduardo,Projeto Executivo,5.8
+2025-03-06,Comercial B,Grupo Beta,Diana,Desenho CAD,4.9
+2025-03-06,Residência A,Construtora Alfa,Diana,Desenho CAD,5.7
+2025-03-06,Residência A,PVCP,Carlos,Projeto Executivo,5.5
+2025-03-06,Comercial B,PVCP,Diana,Modelagem 3D,4.7
+2025-03-06,Residência A,Construtora Alfa,Eduardo,Reunião com Cliente,2.3
+2025-03-06,Obra E,Grupo Beta,Bruno,Desenho CAD,0.6
+2025-03-07,Obra E,Grupo Beta,Eduardo,Orçamento,5.6
+2025-03-07,Escritório C,Grupo Beta,Diana,Desenho CAD,2.5
+2025-03-07,Residência A,João Lima,Carlos,Visita Técnica,1.1
+2025-03-07,Escritório C,PVCP,Bruno,Projeto Executivo,5.2
+2025-03-07,Comercial B,Família Souza,Carlos,Reunião com Cliente,3.7
+2025-03-07,Reforma F,PVCP,Ana,Modelagem 3D,4.4
+2025-03-07,Escritório C,Grupo Beta,Carlos,Orçamento,2.2
+2025-03-07,Residência A,Grupo Beta,Carlos,Orçamento,6.1
+2025-03-07,Comercial B,PVCP,Eduardo,Modelagem 3D,4.0
+2025-03-07,Comercial B,Grupo Beta,Eduardo,Reunião com Cliente,2.5
+2025-03-08,Residência A,Grupo Beta,Bruno,Visita Técnica,6.2
+2025-03-08,Reforma F,PVCP,Eduardo,Reunião com Cliente,4.5
+2025-03-08,Reforma F,Construtora Alfa,Carlos,Orçamento,2.5
+2025-03-08,Apartamento D,PVCP,Ana,Visita Técnica,4.8
+2025-03-08,Obra E,Família Souza,Ana,Orçamento,2.2
+2025-03-08,Reforma F,Família Souza,Eduardo,Orçamento,1.9
+2025-03-08,Reforma F,João Lima,Bruno,Desenho CAD,6.0
+2025-03-08,Escritório C,Construtora Alfa,Bruno,Modelagem 3D,3.7
+2025-03-08,Obra E,Construtora Alfa,Carlos,Visita Técnica,3.7
+2025-03-08,Apartamento D,Família Souza,Bruno,Projeto Executivo,2.5
+2025-03-09,Reforma F,PVCP,Eduardo,Reunião com Cliente,5.7
+2025-03-09,Comercial B,Construtora Alfa,Ana,Reunião com Cliente,6.3
+2025-03-09,Comercial B,João Lima,Eduardo,Visita Técnica,0.5
+2025-03-09,Residência A,Construtora Alfa,Diana,Projeto Executivo,1.8
+2025-03-09,Reforma F,Grupo Beta,Bruno,Reunião com Cliente,7.0
+2025-03-09,Apartamento D,Família Souza,Carlos,Reunião com Cliente,4.4
+2025-03-10,Comercial B,Construtora Alfa,Bruno,Modelagem 3D,3.9
+2025-03-10,Apartamento D,Construtora Alfa,Ana,Visita Técnica,4.6
+2025-03-10,Escritório C,Família Souza,Bruno,Desenho CAD,1.9
+2025-03-10,Comercial B,Família Souza,Diana,Desenho CAD,4.9
+2025-03-10,Escritório C,João Lima,Bruno,Desenho CAD,4.7
+2025-03-10,Residência A,Família Souza,Ana,Projeto Executivo,4.0
+2025-03-10,Residência A,Grupo Beta,Diana,Projeto Executivo,3.9
+2025-03-10,Apartamento D,Construtora Alfa,Carlos,Desenho CAD,1.8
+2025-03-10,Comercial B,Construtora Alfa,Carlos,Reunião com Cliente,3.6
+2025-03-10,Residência A,Família Souza,Bruno,Orçamento,4.1
+2025-03-10,Reforma F,João Lima,Diana,Orçamento,1.9
+2025-03-10,Reforma F,Grupo Beta,Carlos,Desenho CAD,2.9
+2025-03-10,Comercial B,Grupo Beta,Carlos,Visita Técnica,2.9
+2025-03-11,Apartamento D,Grupo Beta,Carlos,Orçamento,4.9
+2025-03-11,Comercial B,Grupo Beta,Diana,Orçamento,3.9
+2025-03-11,Apartamento D,João Lima,Diana,Modelagem 3D,6.2
+2025-03-11,Residência A,João Lima,Bruno,Desenho CAD,3.7
+2025-03-11,Obra E,PVCP,Diana,Visita Técnica,5.9
+2025-03-11,Escritório C,Grupo Beta,Ana,Visita Técnica,3.4
+2025-03-11,Reforma F,Grupo Beta,Bruno,Modelagem 3D,4.7
+2025-03-11,Obra E,Família Souza,Eduardo,Projeto Executivo,0.5
+2025-03-11,Reforma F,Grupo Beta,Diana,Desenho CAD,1.6
+2025-03-11,Escritório C,João Lima,Carlos,Orçamento,4.4
+2025-03-11,Obra E,PVCP,Eduardo,Visita Técnica,3.5
+2025-03-12,Reforma F,PVCP,Diana,Desenho CAD,7.8
+2025-03-12,Escritório C,Construtora Alfa,Carlos,Modelagem 3D,3.6
+2025-03-12,Comercial B,Família Souza,Bruno,Desenho CAD,3.6
+2025-03-12,Comercial B,João Lima,Carlos,Projeto Executivo,3.6
+2025-03-12,Residência A,Construtora Alfa,Carlos,Orçamento,4.4
+2025-03-12,Escritório C,PVCP,Ana,Projeto Executivo,3.1
+2025-03-13,Reforma F,Família Souza,Eduardo,Modelagem 3D,5.5
+2025-03-13,Obra E,Grupo Beta,Bruno,Projeto Executivo,2.5
+2025-03-13,Residência A,Família Souza,Bruno,Projeto Executivo,7.0
+2025-03-13,Escritório C,PVCP,Carlos,Projeto Executivo,2.7
+2025-03-13,Residência A,Família Souza,Bruno,Projeto Executivo,4.1
+2025-03-13,Comercial B,Construtora Alfa,Diana,Orçamento,2.8
+2025-03-13,Reforma F,Família Souza,Bruno,Visita Técnica,2.5
+2025-03-13,Reforma F,Família Souza,Diana,Orçamento,5.8
+2025-03-13,Obra E,João Lima,Eduardo,Projeto Executivo,3.7
+2025-03-14,Reforma F,Construtora Alfa,Diana,Projeto Executivo,5.0
+2025-03-14,Escritório C,Construtora Alfa,Diana,Orçamento,4.3
+2025-03-14,Reforma F,Construtora Alfa,Diana,Modelagem 3D,3.4
+2025-03-14,Reforma F,Grupo Beta,Diana,Desenho CAD,4.2
+2025-03-14,Reforma F,PVCP,Ana,Projeto Executivo,2.7
+2025-03-14,Apartamento D,PVCP,Carlos,Projeto Executivo,3.4
+2025-03-14,Reforma F,Família Souza,Eduardo,Orçamento,4.4
+2025-03-14,Escritório C,PVCP,Eduardo,Orçamento,2.3
+2025-03-15,Residência A,Construtora Alfa,Diana,Modelagem 3D,5.1
+2025-03-15,Comercial B,Família Souza,Bruno,Visita Técnica,4.1
+2025-03-15,Reforma F,Família Souza,Eduardo,Desenho CAD,5.6
+2025-03-15,Residência A,Construtora Alfa,Carlos,Projeto Executivo,3.8
+2025-03-15,Escritório C,Família Souza,Carlos,Projeto Executivo,5.4
+2025-03-15,Obra E,Família Souza,Diana,Reunião com Cliente,3.6
+2025-03-15,Comercial B,Construtora Alfa,Carlos,Modelagem 3D,1.9
+2025-03-15,Obra E,Grupo Beta,Eduardo,Modelagem 3D,6.2
+2025-03-15,Escritório C,João Lima,Eduardo,Visita Técnica,4.0
+2025-03-15,Apartamento D,PVCP,Bruno,Desenho CAD,4.1
+2025-03-16,Obra E,PVCP,Eduardo,Projeto Executivo,6.8
+2025-03-16,Obra E,João Lima,Eduardo,Projeto Executivo,2.8
+2025-03-16,Apartamento D,Família Souza,Carlos,Reunião com Cliente,4.7
+2025-03-16,Residência A,PVCP,Bruno,Orçamento,3.2
+2025-03-16,Obra E,PVCP,Eduardo,Projeto Executivo,6.0
+2025-03-16,Comercial B,João Lima,Ana,Orçamento,2.9
+2025-03-16,Comercial B,Construtora Alfa,Bruno,Projeto Executivo,3.5
+2025-03-16,Residência A,PVCP,Ana,Orçamento,1.8
+2025-03-16,Apartamento D,Construtora Alfa,Diana,Modelagem 3D,2.4
+2025-03-16,Residência A,PVCP,Eduardo,Projeto Executivo,3.7
+2025-03-16,Residência A,João Lima,Eduardo,Projeto Executivo,3.1
+2025-03-16,Comercial B,PVCP,Eduardo,Desenho CAD,2.8
+2025-03-16,Reforma F,Construtora Alfa,Bruno,Reunião com Cliente,4.5
+2025-03-16,Reforma F,Grupo Beta,Bruno,Projeto Executivo,3.7
+2025-03-16,Apartamento D,Grupo Beta,Diana,Reunião com Cliente,3.7
+2025-03-16,Obra E,Construtora Alfa,Eduardo,Orçamento,5.3
+2025-03-16,Apartamento D,Construtora Alfa,Carlos,Projeto Executivo,4.0
+2025-03-17,Reforma F,Família Souza,Carlos,Visita Técnica,5.6
+2025-03-17,Obra E,PVCP,Carlos,Modelagem 3D,4.5
+2025-03-17,Residência A,Construtora Alfa,Eduardo,Reunião com Cliente,3.1
+2025-03-17,Obra E,Grupo Beta,Ana,Visita Técnica,4.7
+2025-03-17,Escritório C,Grupo Beta,Bruno,Projeto Executivo,3.9
+2025-03-17,Reforma F,Construtora Alfa,Carlos,Orçamento,4.7
+2025-03-17,Obra E,Construtora Alfa,Diana,Reunião com Cliente,2.8
+2025-03-17,Escritório C,João Lima,Ana,Desenho CAD,2.2
+2025-03-17,Obra E,Grupo Beta,Bruno,Modelagem 3D,1.3
+2025-03-18,Escritório C,Grupo Beta,Diana,Orçamento,2.3
+2025-03-18,Obra E,João Lima,Ana,Orçamento,3.3
+2025-03-18,Apartamento D,João Lima,Eduardo,Projeto Executivo,4.2
+2025-03-18,Residência A,Construtora Alfa,Eduardo,Desenho CAD,4.8
+2025-03-18,Apartamento D,Grupo Beta,Diana,Orçamento,5.5
+2025-03-18,Reforma F,Construtora Alfa,Eduardo,Visita Técnica,6.2
+2025-03-18,Comercial B,Família Souza,Carlos,Desenho CAD,5.1
+2025-03-18,Comercial B,João Lima,Eduardo,Modelagem 3D,6.8
+2025-03-19,Comercial B,PVCP,Ana,Desenho CAD,3.9
+2025-03-19,Reforma F,PVCP,Eduardo,Modelagem 3D,3.3
+2025-03-19,Residência A,Construtora Alfa,Eduardo,Modelagem 3D,4.2
+2025-03-19,Comercial B,Construtora Alfa,Ana,Modelagem 3D,1.4
+2025-03-19,Escritório C,Construtora Alfa,Eduardo,Desenho CAD,3.2
+2025-03-19,Escritório C,Família Souza,Bruno,Visita Técnica,4.5
+2025-03-19,Comercial B,Família Souza,Ana,Modelagem 3D,4.7
+2025-03-19,Residência A,Família Souza,Carlos,Reunião com Cliente,0.5
+2025-03-19,Escritório C,PVCP,Carlos,Projeto Executivo,5.4
+2025-03-20,Escritório C,Construtora Alfa,Carlos,Visita Técnica,7.5
+2025-03-20,Reforma F,Grupo Beta,Diana,Reunião com Cliente,3.7
+2025-03-20,Reforma F,Família Souza,Diana,Visita Técnica,6.0
+2025-03-20,Obra E,PVCP,Eduardo,Desenho CAD,3.5
+2025-03-20,Residência A,Grupo Beta,Ana,Modelagem 3D,5.3
+2025-03-20,Residência A,Construtora Alfa,Eduardo,Orçamento,4.1
+2025-03-20,Reforma F,Construtora Alfa,Diana,Desenho CAD,4.8
+2025-03-20,Comercial B,Construtora Alfa,Diana,Orçamento,4.1
+2025-03-21,Escritório C,Construtora Alfa,Diana,Modelagem 3D,7.0
+2025-03-21,Comercial B,Família Souza,Ana,Projeto Executivo,5.2
+2025-03-21,Apartamento D,Grupo Beta,Carlos,Modelagem 3D,0.5
+2025-03-21,Reforma F,Grupo Beta,Ana,Reunião com Cliente,4.1
+2025-03-21,Apartamento D,João Lima,Diana,Desenho CAD,5.2
+2025-03-21,Reforma F,Grupo Beta,Eduardo,Orçamento,5.3
+2025-03-21,Obra E,Grupo Beta,Bruno,Desenho CAD,1.1
+2025-03-21,Residência A,Construtora Alfa,Ana,Modelagem 3D,3.5
+2025-03-22,Obra E,Família Souza,Eduardo,Reunião com Cliente,6.1
+2025-03-22,Obra E,Construtora Alfa,Carlos,Modelagem 3D,2.4
+2025-03-22,Obra E,João Lima,Carlos,Orçamento,6.7
+2025-03-22,Residência A,João Lima,Carlos,Visita Técnica,6.9
+2025-03-22,Residência A,Construtora Alfa,Carlos,Desenho CAD,5.7
+2025-03-22,Apartamento D,Grupo Beta,Eduardo,Desenho CAD,4.2
+2025-03-22,Escritório C,Família Souza,Diana,Modelagem 3D,3.3
+2025-03-23,Reforma F,Família Souza,Bruno,Desenho CAD,1.5
+2025-03-23,Apartamento D,João Lima,Diana,Reunião com Cliente,1.9
+2025-03-23,Comercial B,PVCP,Ana,Projeto Executivo,2.5
+2025-03-23,Obra E,João Lima,Carlos,Orçamento,3.3
+2025-03-23,Escritório C,Grupo Beta,Diana,Modelagem 3D,5.3
+2025-03-23,Reforma F,João Lima,Carlos,Projeto Executivo,2.6
+2025-03-23,Reforma F,Construtora Alfa,Ana,Desenho CAD,5.5
+2025-03-24,Comercial B,PVCP,Bruno,Visita Técnica,5.1
+2025-03-24,Reforma F,PVCP,Carlos,Projeto Executivo,4.3
+2025-03-24,Reforma F,Construtora Alfa,Carlos,Reunião com Cliente,2.7
+2025-03-24,Residência A,Grupo Beta,Ana,Desenho CAD,3.9
+2025-03-24,Comercial B,João Lima,Carlos,Desenho CAD,1.3
+2025-03-25,Residência A,Grupo Beta,Diana,Desenho CAD,3.5
+2025-03-25,Escritório C,PVCP,Bruno,Modelagem 3D,6.6
+2025-03-25,Apartamento D,Construtora Alfa,Carlos,Desenho CAD,3.2
+2025-03-25,Escritório C,Família Souza,Eduardo,Modelagem 3D,5.1
+2025-03-25,Reforma F,Família Souza,Ana,Modelagem 3D,1.8
+2025-03-25,Reforma F,Grupo Beta,Carlos,Reunião com Cliente,5.0
+2025-03-25,Obra E,Grupo Beta,Bruno,Reunião com Cliente,5.5
+2025-03-25,Escritório C,Família Souza,Bruno,Desenho CAD,5.6
+2025-03-25,Comercial B,Grupo Beta,Bruno,Modelagem 3D,3.5
+2025-03-25,Reforma F,PVCP,Diana,Desenho CAD,2.3
+2025-03-25,Apartamento D,Grupo Beta,Ana,Modelagem 3D,3.4
+2025-03-26,Apartamento D,Família Souza,Eduardo,Visita Técnica,7.0
+2025-03-26,Obra E,Família Souza,Eduardo,Visita Técnica,4.2
+2025-03-26,Obra E,João Lima,Eduardo,Visita Técnica,2.2
+2025-03-26,Residência A,Construtora Alfa,Ana,Orçamento,4.8
+2025-03-26,Reforma F,Família Souza,Eduardo,Projeto Executivo,4.8
+2025-03-26,Obra E,Grupo Beta,Eduardo,Projeto Executivo,4.2
+2025-03-26,Escritório C,João Lima,Eduardo,Projeto Executivo,3.8
+2025-03-26,Comercial B,Construtora Alfa,Ana,Orçamento,6.4
+2025-03-27,Reforma F,Construtora Alfa,Bruno,Modelagem 3D,3.7
+2025-03-27,Comercial B,Grupo Beta,Ana,Desenho CAD,8.0
+2025-03-27,Escritório C,Família Souza,Eduardo,Reunião com Cliente,4.2
+2025-03-27,Escritório C,Família Souza,Ana,Reunião com Cliente,2.8
+2025-03-27,Apartamento D,João Lima,Bruno,Visita Técnica,5.2
+2025-03-27,Comercial B,Construtora Alfa,Diana,Desenho CAD,3.6
+2025-03-27,Residência A,Família Souza,Carlos,Modelagem 3D,3.5
+2025-03-27,Escritório C,Grupo Beta,Ana,Projeto Executivo,3.6
+2025-03-27,Residência A,Família Souza,Carlos,Desenho CAD,4.3
+2025-03-27,Apartamento D,Família Souza,Carlos,Reunião com Cliente,4.6
+2025-03-27,Comercial B,Família Souza,Ana,Projeto Executivo,5.7
+2025-03-27,Apartamento D,Grupo Beta,Eduardo,Modelagem 3D,2.5
+2025-03-27,Apartamento D,PVCP,Carlos,Modelagem 3D,5.0
+2025-03-27,Apartamento D,PVCP,Bruno,Modelagem 3D,5.3
+2025-03-27,Comercial B,Construtora Alfa,Carlos,Visita Técnica,3.1
+2025-03-28,Escritório C,Construtora Alfa,Ana,Orçamento,4.6
+2025-03-28,Residência A,Construtora Alfa,Eduardo,Desenho CAD,2.6
+2025-03-28,Comercial B,PVCP,Ana,Modelagem 3D,5.5
+2025-03-28,Escritório C,Família Souza,Ana,Visita Técnica,2.4
+2025-03-28,Obra E,Grupo Beta,Eduardo,Visita Técnica,4.3
+2025-03-28,Reforma F,Construtora Alfa,Bruno,Modelagem 3D,5.7
+2025-03-28,Residência A,João Lima,Bruno,Projeto Executivo,3.2
+2025-03-28,Escritório C,Construtora Alfa,Carlos,Modelagem 3D,3.0
+2025-03-28,Comercial B,Construtora Alfa,Eduardo,Reunião com Cliente,4.5
+2025-03-28,Obra E,Construtora Alfa,Bruno,Visita Técnica,3.7
+2025-03-29,Reforma F,Família Souza,Diana,Reunião com Cliente,2.9
+2025-03-29,Reforma F,PVCP,Bruno,Orçamento,3.9
+2025-03-29,Comercial B,Família Souza,Ana,Reunião com Cliente,4.3
+2025-03-29,Apartamento D,Construtora Alfa,Diana,Orçamento,3.4
+2025-03-29,Obra E,Família Souza,Diana,Reunião com Cliente,6.3
+2025-03-29,Apartamento D,Construtora Alfa,Carlos,Desenho CAD,3.9
+2025-03-29,Apartamento D,Família Souza,Carlos,Projeto Executivo,5.2
+2025-03-29,Apartamento D,Grupo Beta,Diana,Projeto Executivo,2.7
+2025-03-29,Escritório C,João Lima,Diana,Visita Técnica,2.0
+2025-03-30,Obra E,João Lima,Bruno,Modelagem 3D,4.3
+2025-03-30,Residência A,PVCP,Ana,Desenho CAD,1.1
+2025-03-30,Residência A,PVCP,Eduardo,Projeto Executivo,5.0
+2025-03-30,Residência A,Grupo Beta,Carlos,Visita Técnica,3.2
+2025-03-30,Reforma F,Construtora Alfa,Bruno,Orçamento,4.3
+2025-03-30,Obra E,PVCP,Ana,Visita Técnica,5.8
+2025-03-30,Reforma F,Família Souza,Ana,Reunião com Cliente,2.5
+2025-03-30,Apartamento D,João Lima,Bruno,Reunião com Cliente,2.7
+2025-03-30,Residência A,Grupo Beta,Eduardo,Projeto Executivo,2.8
+2025-03-30,Comercial B,João Lima,Carlos,Orçamento,1.6
+2025-03-30,Residência A,Construtora Alfa,Ana,Reunião com Cliente,4.3
+2025-03-30,Reforma F,Família Souza,Diana,Orçamento,2.5
+2025-03-30,Reforma F,João Lima,Carlos,Reunião com Cliente,5.5
+2025-03-30,Comercial B,João Lima,Bruno,Visita Técnica,5.4
+2025-03-31,Obra E,Família Souza,Eduardo,Orçamento,3.4
+2025-03-31,Reforma F,Grupo Beta,Ana,Modelagem 3D,5.2
+2025-03-31,Reforma F,Família Souza,Carlos,Visita Técnica,1.0
+2025-03-31,Apartamento D,Família Souza,Ana,Modelagem 3D,3.3
+2025-03-31,Residência A,Família Souza,Bruno,Modelagem 3D,5.4
+2025-03-31,Apartamento D,Família Souza,Ana,Modelagem 3D,2.7
+2025-03-31,Reforma F,Construtora Alfa,Eduardo,Projeto Executivo,3.4
+2025-03-31,Escritório C,Construtora Alfa,Diana,Projeto Executivo,0.5
+2025-03-31,Comercial B,João Lima,Eduardo,Desenho CAD,7.3
+2025-03-31,Obra E,Grupo Beta,Eduardo,Reunião com Cliente,2.4
+2025-03-31,Residência A,Construtora Alfa,Ana,Visita Técnica,3.4
+2025-03-31,Apartamento D,Família Souza,Diana,Orçamento,3.7
+2025-03-31,Apartamento D,Família Souza,Ana,Visita Técnica,1.4
+2025-03-31,Comercial B,Grupo Beta,Ana,Modelagem 3D,4.0
+2025-03-31,Apartamento D,Construtora Alfa,Carlos,Orçamento,3.9
+2025-03-31,Escritório C,Família Souza,Diana,Projeto Executivo,4.6
+2025-03-31,Escritório C,Construtora Alfa,Ana,Visita Técnica,3.4
+2025-03-31,Residência A,João Lima,Eduardo,Projeto Executivo,5.2
+2025-03-31,Reforma F,Construtora Alfa,Carlos,Reunião com Cliente,1.2
+2025-03-31,Reforma F,Grupo Beta,Ana,Visita Técnica,1.2
+2025-03-31,Comercial B,João Lima,Diana,Reunião com Cliente,5.9
